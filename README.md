@@ -1,6 +1,6 @@
 # Developers Mac
 
-> An awesome project.
+> A brief guideline to setup a developer's Mac.
 
 
 ## Customizing System Preferences
